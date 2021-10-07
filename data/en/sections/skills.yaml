@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Html
+  logo: "/images/html.png"
+  summary: "I'm proficient at building Html emails with html tables keeping in mind industry best practices 
+              and not compromising responsivesness  "
+  #url: "https://kubernetes.io/"
+
+- name: Css
+  logo: "/images/css.png"
+  summary: "I'm versed and proficient in styling my html tables with css,making them optimized and responsive across all devices and emails vendors"
+ 
+
+- name: Javascript
+  logo: "/images/js.png"
+  summary: "I'm accustomed to npm and node modules whenever the need arises like when building complex
+             emails that requires user data and changing data"
+
+- name: Email-Testing
+  logo: "/images/email.png"
+  summary: "I can test html emails developed for their responsiveness across multiple
+            devices and email vendors"
+
+- name: Email-development
+  logo: "/images/email.png"
+  summary: "I can leverage my html, css, and programming skills to build beautiflu
+           eye-catching emails that are mobile friendly ."
+
+- name: Email Code Review
+  logo: "/images/email.png"
+  summary: "I can review htlm email codes written by others to offer suggestions and make corrections"
+
+- name: Email Management
+  logo: "/images/email.png"
+  summary: "I can manage email campaigs accross many platforms like mailchimb etc"
+
+
+- name: Email Workflow
+  logo: "/images/email.png"
+  summary: "I can help to smoothen and fasten html development in any organization"
+
+
+- name: Email Templates
+  logo: "/images/email.png"
+  summary: "I can create and edit html templates "
+
+- name: Landing Pages
+  logo: "/images/email.png"
+  summary: I can create landing pages and more complex websites like the one you are presently on"
+
+
+
+

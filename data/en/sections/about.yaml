@@ -1,0 +1,81 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Html email developer
+# your company information
+company:
+  name: Freelancing.
+  #url: 
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate, experienced, professional and friendly digial specialist focusing on html email development, testing, and deployment.
+           I am a meticulous problem solver, I approach all tasks with energy and creativity. I build emails and do email campaigns for individuals and institutions. I build scalable and responsive emails with html and css,also with frameworks such as Mjml etc. I take pride in a job well done and enjoy 
+           working with like-minded, passionate individuals'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/samuelolu97"
+
+- name: Email
+  icon: "fa fa-envelope"
+  url: "samuelolugbenga97@gmail.com"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://facebook.com/%20samuel.olugbenga.9"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/samuel-olugbenga"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/@OJ_SAMUEL1"
+
+- name: Blog
+  icon: "fa fa-book"
+  url: "https://samueloj.netlify.app/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: orange 
+
+- name: Communication
+  percentage: 90
+  color: blue
+
+- name: Problem Solving
+  percentage: 90
+  color: green
+
+- name: Hard working 
+  percentage: 90
+  color: blue
+
+- name: Fast  learner
+  percentage: 90
+  color: orange
+
+  
+
+  

@@ -20,7 +20,7 @@ buttons:
   filter: "sales"
 
 # your projects
-projects:
+projects:   
 - name: promo email
   logo: /images/email.png
   role: Developer

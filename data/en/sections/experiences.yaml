@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Freelancing.
+    #url: "https://www.example.com"
+    location: Nigeria
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Html Email Developer
+    start: 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Assited in preparation of HTML emails on various technology platforms.
+    - Implemented procedures for management of live campaigns as per agaency processes.
+    - Participated in continuous learning of digital media applications,software and online tools.
+    - Provided technical assistance for coding and braodcastingof email communications to loyalty database.
+    - Supported technical team members in evaluation of email templates and deployment of CRM.
+
+- company:
+    name: Freelancing.
+    #url: "https://www.preexample.com"
+    location: Nigeria
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Html Email Developer
+    start: 2021
+    end: 
+    responsibilities:
+    - Executed processes for development and maintenance of internal email templates and standards.
+    - Formulated procedures for management of languages and dynamic content versions of different systems.
+    - oordinated with technical team for continuous optimization of email content and designs.

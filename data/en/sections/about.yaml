@@ -15,7 +15,7 @@ company:
   #url: 
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/joshuaresume.pdf"
 
 # a summary about you
 summary: 'I am a passionate, experienced, professional and friendly digial specialist focusing on html email development, testing, and deployment.

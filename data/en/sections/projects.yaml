@@ -26,7 +26,7 @@ projects:
   role: Developer
   timeline: "October 2021"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.facebook.com"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "https://promotional-email-project.netlify.app/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: An email by jumia promotimg the sales of clothes,shoes,and phones.
   tags: ["html/css","mjml",sales"]
 
@@ -35,7 +35,7 @@ projects:
   role: Developer
   timeline: "October 2021"
   #repo: https://github.com/tensorflow/tensorflow
-  url: "https://www.facebook.com" 
+  url: "https://transaction-email.netlify.app/" 
   summary: A transactional email for an organisation.
   tags: ["html/css","mjml"]
 
@@ -44,6 +44,6 @@ projects:
   role: Developer
   timeline: "October 2021"
   #repo: https://github.com/hossainemruz/toha
-  url: "https://www.facebook.com" 
+  url: "https://newsletter-email-project.netlify.app/" 
   summary: A newsletter Email.
   tags: ["html/css","mjml"]
